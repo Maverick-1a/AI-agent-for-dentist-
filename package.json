@@ -1,0 +1,1 @@
+{"name":"dentallead-v2-gpt","private":true,"scripts":{"start":"node server.js"},"dependencies":{"express":"^5.1.0","openai":"^5.0.0","dotenv":"^16.4.7"}}
